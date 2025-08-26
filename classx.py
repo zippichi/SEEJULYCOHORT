@@ -1,0 +1,6 @@
+print("I am a software engineer")
+print("I love coding")  
+print("I love Python programming")
+print("I love Java programming")
+print("I love JavaScript programming")
+print("I love C programming")
